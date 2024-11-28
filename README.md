@@ -1,4 +1,4 @@
-# Commsquare Assignment
+# Mock app devops implementation 
 
 ## Implementation Description
 
